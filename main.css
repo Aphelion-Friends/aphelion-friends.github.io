@@ -72,7 +72,7 @@ html {
 
 a,
 .link-style {
-    color: #ff4000;
+    color: #008509;
     text-decoration: none;
     padding: 0;
     margin: 0;
@@ -86,7 +86,7 @@ a:hover,
 .link-style:hover {
     text-decoration: underline;
     cursor: pointer;
-    color: #ff7b4f;
+    color: #55ff60;
     transition: color 0.5s;
 }
 
@@ -102,7 +102,7 @@ h2 {
     color: #201e1f;
 }
 
-h3 {
+.sub-title {
     text-align: center;
     font-size: 1rem;
     color: #201e1f;
@@ -125,6 +125,10 @@ img {
 }
 
 p {
+    font-size: 1.1rem;
+}
+
+.list {
     font-size: 1.1rem;
 }
 
